@@ -1,1 +1,1 @@
-string1 = "Ankesh is learning git and github."
+string1 = "I am learning git and github."
