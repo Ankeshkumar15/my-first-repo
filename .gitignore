@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 secoond.py
+third.py
